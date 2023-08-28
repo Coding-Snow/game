@@ -66,3 +66,11 @@ h1{
   background: #fff;
   color: rgb(80,80,800);
 }
+.cSnow{
+  border-top: 1px solid #fff;
+  font-size: 35px;
+  color: rgb(80,80,800);
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
